@@ -34,7 +34,9 @@ Permíteme comenzar con una pregunta: ¿[relacionada con el negocio]?
 
 Pues eso es lo que intentamos hacer con [empresa]. En resumen, [explica lo que hace la empresa/el producto]. 
 
-La razón por la que pensamos que [producto] será una gran opción es porque [explica los beneficios para este contacto]. Sabemos que [explica la acción/necesidad del contacto], y [producto] pueden ayudarte con eso. Por lo general, nuestros clientes ven [métrica de rendimiento exitosa] después de usar [producto]. 
+La razón por la que pensamos que [producto] será una gran opción es porque [explica los beneficios para este contacto]. 
+Sabemos que [explica la acción/necesidad del contacto], y [producto] pueden ayudarte con eso. 
+Por lo general, nuestros clientes ven [métrica de rendimiento exitosa] después de usar [producto]. 
 
 Así que déjame preguntarte: ¿es [el producto] algo sobre lo que te gustaría aprender más?
 
