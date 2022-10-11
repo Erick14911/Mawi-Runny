@@ -26,7 +26,7 @@ codigo
 -->
 # Mac&Runny
 
-~~~
+~~~ 
 
 Hola [nombre], gracias por tomarte el tiempo de escucharme. 
 
