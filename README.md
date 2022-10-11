@@ -50,7 +50,15 @@ Así que déjame preguntarte: ¿es [el producto] algo sobre lo que te gustaría 
 
 # Desarrollo:
 
+### BRANCH
 
++ Document
+
++ Model
+
++ Template
+
++ Control
 
 # Caracteristicas:
 
